@@ -33,6 +33,43 @@
     </item>
     
     <item>
+      <title>ONCE: Boosting Content-based Recommendation with Both Open- and Closed-source Large Language Models</title>
+      <link>https://example.com/publication/conference-paper/liu2024/</link>
+      <pubDate>Fri, 08 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/conference-paper/liu2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Practice and Challenges in Building a Universal Search Quality Metric</title>
+      <link>https://example.com/publication/conference-paper/chen2023sirip/</link>
+      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/conference-paper/chen2023sirip/</guid>
+      <description>&lt;!--
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+ --&gt; 
+</description>
+    </item>
+    
+    <item>
       <title>A Meta-Evaluation of C/W/L/A Metrics: System Ranking Similarity, System Ranking Consistency and Discriminative Power</title>
       <link>https://example.com/publication/preprint/meta-eval-cwla/</link>
       <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
@@ -45,14 +82,6 @@
       <link>https://example.com/publication/journal-article/sakai2023tois/</link>
       <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/journal-article/sakai2023tois/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A First Look at LLM-Powered Generative News Recommendation</title>
-      <link>https://example.com/publication/preprint/genre/</link>
-      <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/preprint/genre/</guid>
       <description></description>
     </item>
     
@@ -136,35 +165,6 @@ Supplementary notes can be added here, including [code, math, and images](https:
       <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/preprint/overview-www4/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Practice and Challenges in Building a Universal Search Quality Metric</title>
-      <link>https://example.com/publication/conference-paper/chen2023sirip/</link>
-      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/chen2023sirip/</guid>
-      <description>&lt;!--
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
- --&gt; 
-</description>
     </item>
     
     <item>
@@ -351,7 +351,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-293645187&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-387291456&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -361,7 +361,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-293645187&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-387291456&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
